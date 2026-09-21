@@ -2,6 +2,17 @@
 
 An Android app built with Kotlin and Jetpack Compose. It combines image features (camera, gallery, image loading libraries, caching) with a Gemini-powered chatbot that saves your conversations.
 
+## Pictures
+<img width="263" height="596" alt="image" src="https://github.com/user-attachments/assets/cd81e23d-9644-44e0-8425-4fb736829007" />
+<img width="327" height="736" alt="image" src="https://github.com/user-attachments/assets/4486eeaa-7ef7-4449-8906-e190c3816361" />
+<img width="324" height="704" alt="image" src="https://github.com/user-attachments/assets/a2be2dbb-2a72-44d9-ab25-34387312d480" />
+<img width="268" height="588" alt="image" src="https://github.com/user-attachments/assets/0bfc7729-4639-4aad-af52-0232f2f0e16a" />
+
+
+
+
+
+
 ## Features
 
 The home screen has five buttons:
