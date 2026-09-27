@@ -1,4 +1,4 @@
-# Gemini API Compose Starter - MAD Experiment 6
+# Gemini API Compose Starter 
 
 An Android app built with Kotlin and Jetpack Compose. It combines image features (camera, gallery, image loading libraries, caching) with a Gemini-powered chatbot that saves your conversations.
 
